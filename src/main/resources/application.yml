@@ -1,0 +1,5 @@
+#开发环境配置文件
+server:
+  port: 8099
+  servlet:
+    context-path: /chinaUtil
