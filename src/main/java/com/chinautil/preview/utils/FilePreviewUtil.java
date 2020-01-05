@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 /**
  * 这是一个工具类，主要是为了使Office2003-2007全部格式的文档(.doc|.docx|.xls|.xlsx|.ppt|.pptx)
- * 参考代码 ：https://github.com/chinaUtil/preview
+ * 参考代码 ：https://github.com/ourlang/preview
  * @author 福小林
  */
 public class FilePreviewUtil {
